@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "877503780361",
+    "project_id": "messagingapp-6d6ec",
+    "storage_bucket": "messagingapp-6d6ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877503780361:android:a7315ef3a42925a8608ad8",
+        "android_client_info": {
+          "package_name": "org.valleycollege.messagingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877503780361-00i91u02j9hum1542fpbfvrpu1uds2q3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.valleycollege.messagingapp",
+            "certificate_hash": "52ddcaf37cfbf6fcae481d8ef30f5f5d6a237941"
+          }
+        },
+        {
+          "client_id": "877503780361-fvvvl4rg6eiec0vsk1ppbk5n0djq4ia3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv-sE8rPVdvYoVY6_ZTksDWWNcdX07dRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877503780361-fvvvl4rg6eiec0vsk1ppbk5n0djq4ia3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
