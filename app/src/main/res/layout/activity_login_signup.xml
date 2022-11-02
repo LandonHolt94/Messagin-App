@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:gravity="center"
     tools:context=".LoginSignup"
     android:background="@drawable/city">
 
@@ -13,12 +14,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Messaging Application Login"
-        android:layout_marginTop="50dp"
-        android:layout_marginBottom="50dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="225dp"
         android:fontFamily="sans-serif-black"
         android:textSize="25sp"
         android:textColor="@color/myColor"
-        android:gravity="center"/>
+        android:gravity="center"
+        />
 
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/email"
